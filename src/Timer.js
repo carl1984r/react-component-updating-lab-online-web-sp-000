@@ -10,7 +10,7 @@ class Timer extends Component {
     };
   }
 
-  //Your code here  
+  //Your code here
 
   componentDidUpdate() {
     this.timer.current.style.color =
